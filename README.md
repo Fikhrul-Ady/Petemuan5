@@ -3,17 +3,17 @@ SQL_DDL
 # Tugas Pratikum(Pertemuan ke-5)
 ## 1. Buat sebuah database dengan nama latihan2!
 Pertama- tama kita masukkan code seperti ini:
-![image1](SS/SS1.png)
+-![image1](SS/SS1.png)
 kemudian baru kita create database:
-![image2](SS/SS2.png)
+-![image2](SS/SS2.png)
 dan jangan lupa untuk pakai perintah USE latihan2:
-![image3](SS/SS3.png)
+-![image3](SS/SS3.png)
 ## 2. Buat sebuah tabel dengan nama biodata (nama, alamat) didalam database latihan2!
 ![image4](SS/SS4.png)
 ## 3. Tambahkan sebuah kolom keterangan (varchar 15), sebagai kolom terakhir!
 ![iamge5](SS/SS5.png)
 ## 4. Tambahkan kolom id (int 11) di awal (sebagai kolom pertama)!
-![image6](SS/SS6)
+![image6](SS/SS6.png)
 ## 5. Sisipkan sebuah kolom dengan nama phone (varchar 15) setelah kolom alamat!
 ![image7](SS/SS7.png)
 ## 6. Ubah tipe data kolom id menjadi char(11)!
