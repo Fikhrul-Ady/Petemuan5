@@ -2,11 +2,11 @@
 SQL_DDL
 # Tugas Pratikum(Pertemuan ke-5)
 ## 1. Buat sebuah database dengan nama latihan2!
-Pertama- tama kita masukkan code seperti ini:
+Pertama- tama kita masukkan code seperti ini.
 -![image1](SS/SS1.png)
-kemudian baru kita create database:
+kemudian baru kita create database.
 -![image2](SS/SS2.png)
-dan jangan lupa untuk pakai perintah USE latihan2:
+dan jangan lupa untuk pakai perintah USE latihan2.
 -![image3](SS/SS3.png)
 ## 2. Buat sebuah tabel dengan nama biodata (nama, alamat) didalam database latihan2!
 ![image4](SS/SS4.png)
